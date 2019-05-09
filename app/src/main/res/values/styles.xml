@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/holo_purple</item>
+        <item name="colorPrimaryDark">@android:color/holo_purple</item> <!--pasek górny-->
+        <item name="colorAccent">@android:color/holo_green_dark</item> <!--progressBar-->
+
+        <item name="android:actionMenuTextColor">@android:color/holo_green_dark</item> <!--Lista nagran-->
+        <item name="android:homeAsUpIndicator">@drawable/ic_arrow_back</item>
+    </style>
+
+</resources>
